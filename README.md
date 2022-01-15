@@ -1,6 +1,8 @@
 ### Hi there, I'm Matt. 👋
 
-- 🌱 I’m currently learning React, APIs & Python projects
+- 🔱 I'm working on updating my GitHub profile with projects to showcase my work
+- 🔽 My profile website will be up soon!
+- 🌱 I’m currently learning React, APIs & working on Python & Javascript projects
 - 💬 Ask me about HTML, CSS, JavaScript, Python, React - I'm happy to help!
 - 😄 I'm Happy When: I figure out solutions to problems!
 - ⚡ Fun fact: Supporter of Fulham FC for almost 20 years! :soccer:
